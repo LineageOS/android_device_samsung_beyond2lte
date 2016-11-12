@@ -28,6 +28,7 @@ TARGET_HAVE_FOD := true
 $(call inherit-product, device/samsung/beyond2lte/device.mk)
 
 ## Boot Animation
+TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 3040
 TARGET_SCREEN_WIDTH := 1440
 
