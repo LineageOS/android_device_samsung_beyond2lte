@@ -14,6 +14,7 @@
 # limitations under the License.
 
 include device/samsung/exynos9820-common/BoardConfigPlatform.mk
+include vendor/samsung/beyond2lte/BoardConfigVendor.mk
 
 DEVICE_PATH := device/samsung/beyond2lte
 
