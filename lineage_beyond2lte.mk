@@ -20,6 +20,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 # Product API level
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 
+# Inscreen Fingerprint HAL
+TARGET_HAVE_FOD := true
+
 # Inherit device configuration
 $(call inherit-product, device/samsung/beyond2lte/device.mk)
 
