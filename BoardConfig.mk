@@ -13,23 +13,24 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-include device/samsung/exynos9820-common/BoardConfigPlatform.mk
+## Inherit from the common tree
+include device/samsung/exynos9820-common/BoardConfigCommon.mk
+
+## Inherit from the proprietary configuration
 include vendor/samsung/beyond2lte/BoardConfigVendor.mk
 
 DEVICE_PATH := device/samsung/beyond2lte
 
-PRODUCT_PLATFORM := exynos9820
-
-# APEX image
+## APEX image
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
-TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/hardware/include
+TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
 
-### DISPLAY
+## Display
 TARGET_SCREEN_DENSITY := 420
 
-### KERNEL
+## Kernel
 TARGET_KERNEL_CONFIG := exynos9820-beyond2lte_defconfig
 
-### VENDOR PROPS
+## Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
