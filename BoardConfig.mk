@@ -24,8 +24,6 @@ DEVICE_PATH := device/samsung/beyond2lte
 ## APEX image
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
-TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
-
 ## Display
 TARGET_SCREEN_DENSITY := 420
 
