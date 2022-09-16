@@ -107,7 +107,10 @@ vendor/firmware/fimc_is_rta.bin
 ## RIL
 vendor/etc/plmn_se13.bin
 vendor/etc/init/init.baseband.rc
--vendor/lib64/libsec-ril.so
+
+## RIL - from beyond2lte - G975FXXSDFUI5
+-vendor/lib64/libsec-ril.so|13eab230e65773734b236b89a9d5293d861d7e7d
+-vendor/lib64/libsec-ril-dsds.so|6ddb4f69f44173e0ef8437a8c0367ef8b62bd9c3
 
 ## Sensors
 -vendor/bin/hw/lhd
