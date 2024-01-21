@@ -1,5 +1,10 @@
 ## Bluetooth
 bluetooth.device.default_name=Galaxy S10+
 
+## Fingerprint
+ro.vendor.fingerprint.type=udfps
+ro.vendor.fingerprint.sensor_location=720|2650|150
+ro.vendor.fingerprint.force_calibrate=true
+
 ## RIL
 ro.telephony.default_network=9,9
