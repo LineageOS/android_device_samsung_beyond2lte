@@ -1,29 +1,29 @@
 # Firmware for model SM-G975F - from Samsung package version G975FXXSGHWC2
 
-cm.bin_SM-G975F
-dqmdbg.img_SM-G975F
-keystorage.bin_SM-G975F
-modem.bin_SM-G975F
-modem_debug.bin_SM-G975F
-param.bin_SM-G975F
-sboot.bin_SM-G975F
-uh.bin_SM-G975F
-up_param.bin_SM-G975F
+cm.bin_SM-G975F|c16076f3e010041b016d58aa2032358c6b4a19a2
+dqmdbg.img_SM-G975F|1455cb8b6f4f6bdc00b5441cb75f1344ac0ce1bc
+keystorage.bin_SM-G975F|8cfa3e8c334b9040a6daade12d73428233140b72
+modem.bin_SM-G975F|64a04ecbeed8d3b1097f6bffee19169600064f42
+modem_debug.bin_SM-G975F|6b5532879a53ae6b719f37c66b6da1e77df6757a
+param.bin_SM-G975F|e271cdf312a98a2c2b89aea7d9ab8a51d493ee0b
+sboot.bin_SM-G975F|8999fa003f55b616c858a014026ace71116bd804
+uh.bin_SM-G975F|e5ef385e750772fd50e03b08dbbc9b19e373d011
+up_param.bin_SM-G975F|4d2ca327c7c5f1291b65d197f261948e85eda26d
 
 # Firmware for model SM-G975N - from Samsung package version G975NKSU7HWD3
 
-cm.bin_SM-G975N
-dqmdbg.img_SM-G975N
-keystorage.bin_SM-G975N
-modem.bin_SM-G975N
-modem_debug.bin_SM-G975N
-param.bin_SM-G975N
-sboot.bin_SM-G975N
-uh.bin_SM-G975N
-up_param.bin_SM-G975N
+cm.bin_SM-G975N|7152112ecb3f505c3c2ff87e8bbd142a319102c3
+dqmdbg.img_SM-G975N|75feba236019239a10dfcce6d6388eb8d6220167
+keystorage.bin_SM-G975N|796f376687f52db867ba7dda1c2c1e721653e933
+modem.bin_SM-G975N|632cdd5b4e8c3d896a4aff4877f8edbb71bdaefb
+modem_debug.bin_SM-G975N|cc09d8c690d3a18bb90cd879bd2152278dc2d889
+param.bin_SM-G975N|84b3e5e32320611a2d2094f87e52edfe22c25e35
+sboot.bin_SM-G975N|0c317d6352294cc0deb943d836b8e198d343a10e
+uh.bin_SM-G975N|3bd4c43690c3b1d6eca8e72005962a8b3137c130
+up_param.bin_SM-G975N|f9ae8fed4e96e2c6ea8f6133ab6790c4acad1008
 
 # File containing the supported models, one per line
-models
+models|72ac495a341828ede52406ecf89c0d9933b67dac
 # Files containing Samsung package version for supported models
-version_SM-G975F
-version_SM-G975N
+version_SM-G975F|affad6878a2be2f29d8b498e300b6151bbdf1816
+version_SM-G975N|3679b7ae0277c0fb6fb35df973fc55e99a212833
