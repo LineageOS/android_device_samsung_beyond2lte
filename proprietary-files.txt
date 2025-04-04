@@ -28,7 +28,7 @@ vendor/firmware/bcm4375B1_semco_sem.hcd
 
 ## Camera - from beyond2lte - G975FXXSEGVA9
 vendor/lib64/hw/camera.exynos9820.so|2399a48b9e4187a8f2de083c21f8d99767bee62b
-vendor/lib64/libexynoscamera3.so|97d450d1059a5081e33056b4794089d5afa17458|97d450d1059a5081e33056b4794089d5afa17458
+vendor/lib64/libexynoscamera3.so|39bb88bf7777d3099e6ca06fb28dccdcb60119db|39bb88bf7777d3099e6ca06fb28dccdcb60119db
 
 ## Camera Firmware
 vendor/firmware/fimc_is_fw_mcu.bin
