@@ -16,6 +16,23 @@
       "message": "Fixes density when changing resolution.\nWill push for other devices if this is OK.",
       "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a563a011_779afbc3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30416
+      },
+      "writtenOn": "2025-10-01T11:12:17Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_device_oneplus_lemonadep/+/443062",
+      "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
