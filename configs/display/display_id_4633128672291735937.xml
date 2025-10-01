@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<displayConfiguration>
+    <densityMapping>
+        <density>
+            <height>2280</height>
+            <width>1080</width>
+            <density>420</density>
+        </density>
+        <density>
+            <height>3040</height>
+            <width>1440</width>
+            <density>560</density>
+        </density>
+    </densityMapping>
+</displayConfiguration>
+
