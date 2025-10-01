@@ -33,6 +33,24 @@
       "message": "https://review.lineageos.org/c/LineageOS/android_device_oneplus_lemonadep/+/443062",
       "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8664eea4_5c1c2bdf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35850
+      },
+      "writtenOn": "2025-10-01T11:22:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a563a011_779afbc3",
+      "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
