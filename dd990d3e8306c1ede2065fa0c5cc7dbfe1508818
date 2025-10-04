@@ -51,6 +51,24 @@
       "parentUuid": "a563a011_779afbc3",
       "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3eca50d_c1260a71",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25925
+      },
+      "writtenOn": "2025-10-04T16:04:41Z",
+      "side": 1,
+      "message": "Can you upload changes for the other devices too?",
+      "parentUuid": "52420b4b_4705a940",
+      "revId": "dd990d3e8306c1ede2065fa0c5cc7dbfe1508818",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
